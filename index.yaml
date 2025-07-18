@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.29.0
+    created: "2025-07-18T16:23:07.424570772+05:30"
+    description: a help chat for nxinx to be installed in Kubernetes
+    digest: 31ae6d9afb2c657d82a35e2a4bfdc4557619bd521d6ab14e3df9a8b288a41115
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-18T16:23:07.420368495+05:30"
